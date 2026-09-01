@@ -1,0 +1,121 @@
+{
+  "@@locale": "en",
+  "appName": "QR Scan Caju",
+  "@appName": {
+    "description": "Application name"
+  },
+  "scanTab": "Scan",
+  "generateTab": "Create",
+  "historyTab": "History",
+  "scanHistoryTitle": "Scan history",
+  "generateHistoryTitle": "Created history",
+  "settingsTab": "Settings",
+  "cameraPermissionDenied": "Please allow camera access to scan codes",
+  "cameraError": "Unable to start camera: {error}",
+  "@cameraError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "scanFromImage": "Scan from image",
+  "torchOn": "Turn on flashlight",
+  "torchOff": "Turn off flashlight",
+  "switchCamera": "Switch camera",
+  "actionTorch": "Flash",
+  "actionAlbum": "Album",
+  "actionFlip": "Flip",
+  "copy": "Copy",
+  "copied": "Copied",
+  "share": "Share",
+  "openLink": "Open link",
+  "searchWeb": "Search web",
+  "callNumber": "Call",
+  "sendEmail": "Send email",
+  "sendSms": "Send SMS",
+  "noHistory": "No history",
+  "deleteRecord": "Delete record",
+  "deleteRecordConfirm": "Delete this record?",
+  "deleteAllRecords": "Delete all records",
+  "deleteAllRecordsConfirm": "Delete all history? This cannot be undone.",
+  "recordDeleted": "Record deleted",
+  "allRecordsDeleted": "All records deleted",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "generateQr": "Create QR code",
+  "inputHint": "Enter content",
+  "typeText": "Text",
+  "typeUrl": "URL",
+  "typeWifi": "Wi-Fi",
+  "typePhone": "Phone",
+  "typeEmail": "Email",
+  "wifiSsid": "Network name (SSID)",
+  "wifiPassword": "Password",
+  "wifiEncryption": "Security",
+  "saveShareQr": "Share QR image",
+  "scanResult": "Scan result",
+  "generateResult": "Created QR",
+  "formatLabel": "Format: {format}",
+  "@formatLabel": {
+    "placeholders": {
+      "format": {
+        "type": "String"
+      }
+    }
+  },
+  "noCodeFound": "No QR or barcode found in this image",
+  "pickImageFailed": "Could not open the image",
+  "enterContent": "Enter something to generate a QR code",
+  "versionLabel": "Version {version}",
+  "@versionLabel": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "aboutTitle": "About",
+  "aboutContent": "Free QR and barcode scanner.\n\n• No ads and no account\n• History is stored only on this device\n• Camera is used only while the Scan tab is open\n• Works offline except when you open a link",
+  "liveScanUnsupported": "Live camera scanning is not available on this platform. Pick an image that contains a QR code.",
+  "wpa": "WPA/WPA2",
+  "wep": "WEP",
+  "nopass": "None",
+  "ok": "OK",
+  "scanningHint": "Align the code inside the frame",
+  "imageScanning": "Scanning image…",
+  "scanPickUpPhone": "Pick up your phone to start scanning",
+  "typeSms": "SMS",
+  "typeGeo": "Location",
+  "typeProduct": "Product",
+  "typeContact": "Contact",
+  "typeIsbn": "ISBN",
+  "openWifi": "Wi-Fi details",
+  "ssidLabel": "SSID",
+  "passwordLabel": "Password",
+  "themeTitle": "Theme",
+  "themeAppearance": "Appearance",
+  "themeSystem": "System",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "themeColor": "Color",
+  "themeOrange": "Orange",
+  "themeGreen": "Green",
+  "themeTeal": "Teal",
+  "themeBlue": "Blue",
+  "themeSlate": "Slate",
+  "themePaper": "Paper",
+  "themePaperFilter": "Paper texture",
+  "themePaperGrain": "Roughness",
+  "themePaperGrainFine": "Smooth",
+  "themePaperGrainCoarse": "Rough",
+  "themeFont": "Font",
+  "themeIconStyle": "Icons",
+  "iconStyleAnime": "Playful",
+  "iconStyleBusiness": "Business",
+  "fontRounded": "Rounded",
+  "fontMaru": "Maru",
+  "fontXiaoWei": "XiaoWei",
+  "fontNunito": "Nunito",
+  "fontSystem": "System"
+}
