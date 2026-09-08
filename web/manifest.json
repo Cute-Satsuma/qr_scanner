@@ -1,6 +1,6 @@
 {
-    "name": "QR Scan Caju",
-    "short_name": "QR Scan Caju",
+    "name": "QR Scanner",
+    "short_name": "QR Scanner",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FFF6E8",

@@ -10,7 +10,7 @@ class AppLocalizationsRu extends AppLocalizations {
   AppLocalizationsRu([String locale = 'ru']) : super(locale);
 
   @override
-  String get appName => 'QR-сканер Caju';
+  String get appName => 'QR-сканер';
 
   @override
   String get scanTab => 'Сканер';

@@ -10,7 +10,7 @@ class AppLocalizationsPt extends AppLocalizations {
   AppLocalizationsPt([String locale = 'pt']) : super(locale);
 
   @override
-  String get appName => 'Leitor QR Caju';
+  String get appName => 'Leitor QR';
 
   @override
   String get scanTab => 'Ler';

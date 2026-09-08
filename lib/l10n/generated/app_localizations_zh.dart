@@ -10,7 +10,7 @@ class AppLocalizationsZh extends AppLocalizations {
   AppLocalizationsZh([String locale = 'zh']) : super(locale);
 
   @override
-  String get appName => '扫码 Caju';
+  String get appName => '扫一扫';
 
   @override
   String get scanTab => '扫码';
@@ -304,7 +304,7 @@ class AppLocalizationsZhCn extends AppLocalizationsZh {
   AppLocalizationsZhCn() : super('zh_CN');
 
   @override
-  String get appName => '扫码 Caju';
+  String get appName => '扫一扫';
 
   @override
   String get scanTab => '扫码';

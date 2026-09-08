@@ -29,7 +29,7 @@
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
 	<key>CFBundleDisplayName</key>
-	<string>QR Scan Caju</string>
+	<string>QR Scanner</string>
 	<key>NSCameraUsageDescription</key>
 	<string>QR Scan needs the camera to scan QR codes and barcodes</string>
 	<key>NSPhotoLibraryUsageDescription</key>

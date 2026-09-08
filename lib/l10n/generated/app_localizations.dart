@@ -118,7 +118,7 @@ abstract class AppLocalizations {
   /// Application name
   ///
   /// In en, this message translates to:
-  /// **'QR Scan Caju'**
+  /// **'QR Scanner'**
   String get appName;
 
   /// No description provided for @scanTab.

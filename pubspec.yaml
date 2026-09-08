@@ -17,10 +17,9 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
 # Version scheme:
-#   versionName (before +): yyyyMMdd.counter  e.g. 20260901.01
-#   versionCode (after  +): yyMMdd + counter  e.g. 26090101
-# Counter is a two-digit daily sequence 01–99.
-version: 20260901.01+26090101
+#   versionName (before +): x.x.x
+#   versionCode (after  +): yyMMddxx
+version: 1.0.2+26090802
 
 environment:
   sdk: ^3.13.0

@@ -1,6 +1,6 @@
 {
   "@@locale": "es",
-  "appName": "Escáner QR Caju",
+  "appName": "Escáner QR",
   "scanTab": "Escanear",
   "generateTab": "Crear",
   "historyTab": "Historial",

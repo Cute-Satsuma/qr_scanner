@@ -10,7 +10,7 @@ class AppLocalizationsEs extends AppLocalizations {
   AppLocalizationsEs([String locale = 'es']) : super(locale);
 
   @override
-  String get appName => 'Escáner QR Caju';
+  String get appName => 'Escáner QR';
 
   @override
   String get scanTab => 'Escanear';

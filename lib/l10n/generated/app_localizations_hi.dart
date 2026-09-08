@@ -10,7 +10,7 @@ class AppLocalizationsHi extends AppLocalizations {
   AppLocalizationsHi([String locale = 'hi']) : super(locale);
 
   @override
-  String get appName => 'QR स्कैन Caju';
+  String get appName => 'QR स्कैनर';
 
   @override
   String get scanTab => 'स्कैन';

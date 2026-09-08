@@ -10,7 +10,7 @@ class AppLocalizationsAr extends AppLocalizations {
   AppLocalizationsAr([String locale = 'ar']) : super(locale);
 
   @override
-  String get appName => 'مسح QR Caju';
+  String get appName => 'ماسح QR';
 
   @override
   String get scanTab => 'مسح';

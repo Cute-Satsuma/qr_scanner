@@ -10,7 +10,7 @@ class AppLocalizationsBn extends AppLocalizations {
   AppLocalizationsBn([String locale = 'bn']) : super(locale);
 
   @override
-  String get appName => 'QR স্ক্যান Caju';
+  String get appName => 'QR স্ক্যানার';
 
   @override
   String get scanTab => 'স্ক্যান';
